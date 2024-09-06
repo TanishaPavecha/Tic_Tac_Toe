@@ -6,3 +6,5 @@ The tic-tac-toe game is played on a 3 × 3 grid. The game is played by two playe
 
 1. GUI to come, with JavaFX.
 2. For now, run the .java file as a simple java class in NetBeans IDE 8.1 or Eclipse and play it on the console.
+
+
